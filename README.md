@@ -1,0 +1,1 @@
+Refer to ApiApplicationTests for consumer code
